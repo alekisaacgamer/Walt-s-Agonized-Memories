@@ -1,0 +1,1 @@
+room_goto(studio_rm_upstairs);

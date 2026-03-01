@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"ballora_snd",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":66.6,
+  "exportDir":"",
+  "name":"ballora_snd",
+  "parent":{
+    "name":"Walt's Agonized Memories",
+    "path":"Walt's Agonized Memories.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"ballora_snd.mp3",
+  "volume":1.0,
+}
